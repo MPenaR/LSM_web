@@ -74,3 +74,8 @@ function changeDate(n) {
 
 plot_freqs(folder);
 plot_multi(folder);
+
+window.addEventListener('load', function () {
+    plot_freqs(folder);
+    plot_multi(folder);
+});
