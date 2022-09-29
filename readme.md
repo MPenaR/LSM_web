@@ -6,6 +6,8 @@ On the other hand, when taking into account the regularization parameter $\alpha
 
  - [two Nylon cylinders](./Nylon-Cyls/alpha_sweep/test_slider.html)
 
- - [$4$ in Nylon cylinder](./Nylon-4.0/alpha_sweep/test_slider.html)
+ - [4 in Nylon cylinder](./Nylon-4.0/alpha_sweep/test_slider.html)
 
  - [Phantom dielectric target](./Phantom/alpha_sweep/test_slider.html)
+
+ - [2 in steel cylinder](./Metal-2.0/alpha_sweep/test_slider.html) 
