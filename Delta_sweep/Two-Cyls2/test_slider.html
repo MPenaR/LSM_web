@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Delta sweep</title>
+<style>
+body {
+    height: 100%;
+    margin: 0 auto;
+  }
+canvas {
+    height: 400px;
+    width: 700px;
+    /* border: 1px solid black;  */
+  }
+input[type="range"] {
+  width:450px;
+}
+</style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>&delta; sweep</h1>
+    <h2> Frequencies </h2>
+    <div style="width: 100%; float:left;">
+        <canvas id="canvas_freqs"></canvas>
+        <br>
+        <input style="width: 80%;" id="input_freqs" type="range" min="0" max="99" value="0" orient="horizontal" oninput="document.getElementById('output_freqs').value = '&delta; = 10^'+String(1+this.value/99*(-5-1));" />
+        <div><output id="output_freqs">&delta; = 10^1</output></div>
+    </div>
+    
+    <br>
+    
+    <h2> Multifrequency </h2>
+    <div style="width: 100%; float:left;">
+        <canvas id="canvas_multi"></canvas>
+        <br>
+        <input style="width: 80%;" id="input_multi" type="range" min="0" max="99" value="0" orient="horizontal" oninput="document.getElementById('output_multi').value = '&delta; = 10^'+String(1+this.value/99*(-5-1));" />
+        <div><output id="output_multi">&delta; = 10^1</output></div>
+    </div>
+
+</body>
+<script src="./slider.js"></script>
+
+</html>
