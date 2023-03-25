@@ -13,3 +13,6 @@ On the other hand, when taking into account the regularization parameter $\alpha
  - [2 in steel cylinder](./Metal-2.0/alpha_sweep/test_slider.html) 
 
 Finally, if we use Morozov regularization, it seems that the results tend to a limit when decreasing the noise level $\delta$. This can be seen in [here](./Delta_sweep/Two-Cyls2/test_slider.html)
+
+
+Last update: I've added a [sweep in the gamma](./gamma_sweep/4inCyl/test_slider.html) for the modified far field pattern.
