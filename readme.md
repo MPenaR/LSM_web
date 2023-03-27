@@ -15,4 +15,8 @@ On the other hand, when taking into account the regularization parameter $\alpha
 Finally, if we use Morozov regularization, it seems that the results tend to a limit when decreasing the noise level $\delta$. This can be seen in [here](./Delta_sweep/Two-Cyls2/test_slider.html)
 
 
-Last update: I've added a [sweep in the gamma](./gamma_sweep/4inCyl/test_slider.html) for the modified far field pattern.
+I've added a [sweep in the gamma](./gamma_sweep/4inCyl/test_slider.html) for the modified far field pattern.
+
+## NEW: results for the 4 inch cylinder in an extended range of regularizations
+- [ results for a sweep in alpha without Morozov criterion](Delta_sweep/4inCyl_no_Morozov/test_slider.html)
+- [ results for a sweep in delta with Morozov criterion](Delta_sweep/4inCyl_Morozov/test_slider.html)
