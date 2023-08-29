@@ -20,3 +20,33 @@ I've added a [sweep in the gamma](./gamma_sweep/4inCyl/test_slider.html) for the
 ## NEW: results for the 4 inch cylinder in an extended range of regularizations
 - [ results for a sweep in alpha without Morozov criterion](Delta_sweep/4inCyl_no_Morozov/test_slider.html)
 - [ results for a sweep in delta with Morozov criterion](Delta_sweep/4inCyl_Morozov/test_slider.html)
+
+
+## GIFS:
+### Delta sweeps
+#### Two dielectric
+parallel indicator.
+
+![file not found](./GIFs/delta_two_parallel_rotating_transparent.gif)
+
+parallel indicator.
+
+![file not found](./GIFs/delta_two_serial_rotating_transparent.gif)
+
+
+
+#### U shaped
+
+parallel indicator.
+
+![file not found](./GIFs/delta_U_parallel_rotating_transparent.gif)
+
+
+serial indicator. (30 M)
+
+![file not found](./GIFs/delta_U_serial_rotating_transparent.gif)
+
+
+product indicator. ( 7.5M 10 fps)
+
+![file not found](./GIFs/delta_U_prod_rotating_transparent.gif)
