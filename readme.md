@@ -29,10 +29,13 @@ parallel indicator.
 
 ![file not found](./GIFs/delta_two_parallel_rotating_transparent.gif)
 
-parallel indicator.
+serial indicator (20fps 70%Q 7.4M).
 
 ![file not found](./GIFs/delta_two_serial_rotating_transparent.gif)
 
+product indicator ( smooth shading).
+
+![file not found](./GIFs/delta_two_prod_rotating_transparent.gif)
 
 
 #### U shaped
