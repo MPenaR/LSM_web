@@ -64,6 +64,11 @@ i don't remember which indicator:
 
 ## GRID
 
-Producto indicator
+Product indicator
 
 ![file not found](./GIFs/grid_slow.gif)
+
+
+The same but with a tighter grid, so the full picture is square
+
+![file not found](./GIFs/grid_squared.gif)
