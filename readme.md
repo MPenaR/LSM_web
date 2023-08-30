@@ -60,3 +60,10 @@ product indicator. ( 7.5M 10 fps)
 i don't remember which indicator: 
 
 ![file not found](./GIFs/indicator2d_U.gif)
+
+
+## GRID
+
+Producto indicator
+
+![file not found](./GIFs/grid_slow.gif)
